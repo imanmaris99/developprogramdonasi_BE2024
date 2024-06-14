@@ -14,6 +14,7 @@ Program Donasi is a backend application built using Flask to help manage users, 
 
 
 <h4>Web Display and Menu Flow</h4>
+<h4>Frontend application for which I tried to design the website planning layout in Figma.</h4>
    <img  src="/documentation/Content Planning.png">
     <p>Here is a screenshot of the application:</p>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
@@ -27,6 +28,7 @@ Program Donasi is a backend application built using Flask to help manage users, 
 
 #
 <h4>Web Database and Relationship Flow</h4>
+<h4>I tried to design the website planning layout in Figma.</h4>
     <p>Here is a screenshot of the relationship flow:</p>
 <div align="center">
    <img width="500" src="/documentation/Program Donasi Database.png">
