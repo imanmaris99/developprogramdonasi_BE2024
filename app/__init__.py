@@ -3,8 +3,6 @@ from flask_jwt_extended import JWTManager
 from app.utils.db import db
 from app.controllers.user import user_route
 from app.controllers.contact_us import contactus_route
-# from app.controllers.contact_management_route import contact_routes
-# from app.controllers.donation_management_route import donation_routes
 from app.controllers.program import program_route
 from app.controllers.donatur import donatur_route
 from app.controllers.donasi import donasi_route
